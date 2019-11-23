@@ -4,4 +4,4 @@ build
 demo
 lerna-debug.log
 npm-debug.log
-packages/*/lib
+# packages/*/lib
